@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "S4824417_RCMEXT.C": "cpp",
+    "s4824417_mfs_led.h": "c",
+    "s4824417_rcm_display.h": "c",
+    "freertos.h": "c",
+    "processor_hal.h": "c",
+    "nrf24l01plus.h": "c"
+  }
+}
